@@ -1,0 +1,11 @@
+{
+  "name": "media-smart-challenge",
+  "version": "1.0.0",
+  "description": "Media smart code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran Bosquet",
+  "license": "ISC"
+}
